@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Controlador"},{"p":"<Unnamed>","l":"ServidorTableroMultihilo"},{"p":"<Unnamed>","l":"TableroCliente"},{"p":"<Unnamed>","l":"TableroMaquinaHilo"}]
